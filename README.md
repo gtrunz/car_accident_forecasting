@@ -30,7 +30,3 @@ Notebook includes additional citations.
  - itertools
  - warnings
 
-
-
-`
-
