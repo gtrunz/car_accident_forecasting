@@ -9,26 +9,26 @@ This analysis seeks to forecast the daily number of car accidents in the county 
 Notebook includes additional citations.
 
 ## Environment
- - `Python==3.10.8`
- - `Jupyter==1.0.0`
- - `prophet==1.1.4`
- - `statsmodels==0.13.5`
- - `sklearn==1.2.2`<br>
- - `pandas==1.5.2`<br>
- - `geopandas==0.13.2`<br>
- - `matplotlib==3.6.2`<br>
- - `seaborn==0.12.1`<br>
- - `shapely==2.0.1`
- - `numpy==1.26.0`
- - `scipy==1.11.3`
- - `holidays==0.32`
- - `re==2.2.1`
- - `logging==0.5.1.2`
- - `os`
- - `calendar`
- - `collections`
- - `itertools`
- - `warnings`
+ - Python==3.10.8
+ - Jupyter==1.0.0
+ - prophet==1.1.4
+ - statsmodels==0.13.5
+ - sklearn==1.2.2
+ - pandas==1.5.2
+ - geopandas==0.13.2
+ - matplotlib==3.6.2
+ - seaborn==0.12.1
+ - shapely==2.0.1
+ - numpy==1.26.0
+ - scipy==1.11.3
+ - holidays==0.32
+ - re==2.2.1
+ - logging==0.5.1.2
+ - os
+ - calendar
+ - collections
+ - itertools
+ - warnings
 
 
 
